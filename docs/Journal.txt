@@ -1,0 +1,4 @@
+Meeting Date: 1/16/2018 & 1/21/18
+Members Present: John Lee, Ravi Gupta
+Major Issues for Discussion (brief): The major issues for our group is what programming language we are going to use and the design (the visual) of how our website is going to look like.
+Major Decisions (brief): We have made the decision to use PHP coding and have made an agreement that when designing part of the website interface we have to agree to one another first before it becomes an official interface.
