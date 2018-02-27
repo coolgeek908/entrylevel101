@@ -1,4 +1,4 @@
-Meeting Date: 1-20-18, 1-21-18
+Meeting Date: 2/12/18 and 2/19/18
 Member Present: Ravi Gupta and John Lee
-Major Issue for discussion: The initial steps of front end design, Initial steps of creating database, what core services needs to provide through online banking system.
-Major Decision: We discussed which language we should use to design our online banking. We decided to use HTML, CSS, PHP and SQL for front-back end design. Discussed, how many services we need to provide through online banking and making sure we meet the minimum requirement for this project.  
+Major Issue for discussion: How to figure out to make Xampp work to connect our php files to run the page on the browser. Apache always say error and cannot start.
+Major Decision: Try to search google on how to run Xampp (apache) because apache keeps saying error. We have found the solution to start Apache by changing the port number.
