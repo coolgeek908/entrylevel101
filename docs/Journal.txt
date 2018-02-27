@@ -1,4 +1,4 @@
-Meeting Date: 2/12/18 and 2/19/18
+Meeting Date: 2/12/18 
 Member Present: Ravi Gupta and John Lee
 Major Issue for discussion: How to figure out to make Xampp work to connect our php files to run the page on the browser. Apache always say error and cannot start.
 Major Decision: Try to search google on how to run Xampp (apache) because apache keeps saying error. We have found the solution to start Apache by changing the port number.
