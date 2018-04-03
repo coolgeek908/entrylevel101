@@ -1,0 +1,7 @@
+Meeting Date: 3/13/18 
+
+Member Present: Ravi Gupta and John Lee
+
+Major Issue for discussion: Should we make the front end design of the customer different from the admin and the staff?
+
+Major Decision: We made the decision to save time and focus on the coding to make the features work for the customer first then we will go back to designing our front end. We will use the same interface design for the customer.

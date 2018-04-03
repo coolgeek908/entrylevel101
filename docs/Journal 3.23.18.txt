@@ -1,0 +1,7 @@
+Meeting Date: 3/23/18 
+
+Member Present: Ravi Gupta and John Lee
+
+Major Issue for discussion: Difficulties with coding of how to implement Customer when requesting beneficial fund and sending it to the Staff to approve.
+
+Major Decision: While having difficulties on how to implement the request of beneficial fund from the customer, we have decided to test multiple times in our customer page and staff page to see if it actually comes in for the staff to approve. We are going to create a new php page just for the process of the beneficial fund to know where we are looking at then will link it in our customer add beneficial.
