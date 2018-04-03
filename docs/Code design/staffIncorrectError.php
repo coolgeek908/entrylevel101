@@ -2,14 +2,14 @@
 <html>
 	<head>
 	<meta charset="utf-8">
-	<title>Login Successful</title>
+	<title>Username or Password Incorrect</title>
 	<link rel="stylesheet" href="newcss.css">
 	</head>
 	<body>
 		<div class="container">
 			<div class="popup">
-				<p> Login Successful!</p>
-				<button onclick="location.href = 'admin_hompage.php';" class="btn">Ok</button>
+				<p> Username and/or Password is Incorrect! <br>Please enter again!</p>
+				<button onclick="location.href = 'staff_login.php';" class="btn">Ok</button>
 			</div>
 		</div>
 	</body>

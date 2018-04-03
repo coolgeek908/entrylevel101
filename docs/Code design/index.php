@@ -14,6 +14,7 @@ if(isset($_REQUEST['submitBtn'])){
     $user=$rws[0];
     $pwd=$rws[1];    
     
+	// Created a page if customer login successfully.
     if($user==$username && $pwd==$password){
         session_start();
         $_SESSION['customer_login']=1;
@@ -22,11 +23,13 @@ if(isset($_REQUEST['submitBtn'])){
     }
    
 else{
+	// Created a page if Customer login Unsucessfully and it will be directed back to the homepage.
     header('location:IncorrectError.php');  
 
 }}
 ?>
 <?php 
+//Direct to Customer account summary if login successfully.
 session_start();
         
 if(isset($_SESSION['customer_login'])) 

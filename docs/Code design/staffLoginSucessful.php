@@ -9,7 +9,7 @@
 		<div class="container">
 			<div class="popup">
 				<p> Login Successful!</p>
-				<button onclick="location.href = 'admin_hompage.php';" class="btn">Ok</button>
+				<button onclick="location.href = 'staff_homepage.php';" class="btn">Ok</button>
 			</div>
 		</div>
 	</body>
