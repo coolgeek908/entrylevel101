@@ -1,0 +1,7 @@
+Meeting Date: 4/3/18 
+
+Member Present: Ravi Gupta and John Lee
+
+Major Issue for discussion: Retrieving customers statements by date range.
+
+Major Decision: We have discussed that we will have to research how to code to get customers statements by inputting a date range. 
